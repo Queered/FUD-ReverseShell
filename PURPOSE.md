@@ -1,0 +1,1 @@
+You can run your payload thru shell on all bots you have connected
