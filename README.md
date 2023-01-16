@@ -24,6 +24,6 @@ YOU HAVE TO MODIFY THIS CODE FOR USAGE
 
 api example
 
-host:port/execute?mode=execute_command&content=echo&arg=gay&arg2=imgay \n
-host:port/execute?mode=execute_command&content=echo&arg=gay \n
+host:port/execute?mode=execute_command&content=echo&arg=gay&arg2=imgay
+host:port/execute?mode=execute_command&content=echo&arg=gay
 host:port/execute?mode=execute_command&content=ls
