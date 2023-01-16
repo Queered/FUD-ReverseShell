@@ -1,5 +1,7 @@
 ** t.me/extortment for more projects like this**
 
+# COMPILE IT WITH nexe NPM PACKAGE TO MAKE IT CROSS PLATFROM/FUD
+
 Project Name: Dudullu Kabusu | Nightmare of dudullu.
 
 Dudullu is a hood in turkey that I used to live in.
